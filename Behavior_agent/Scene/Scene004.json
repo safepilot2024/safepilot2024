@@ -1,0 +1,37 @@
+{
+    "destination_location_x": 245,
+    "destination_location_y": -167.8,
+
+    "victim_x":247.5,
+    "victim_y":-75.3,
+    "victim_z":1,
+    "victim_pitch":0,
+    "victim_yaw":-90,
+    "victim_roll":0,
+
+    "attacker_x":245.89,
+    "attacker_y":-86.26,
+    "attacker_z":1,
+    "attacker_pitch":0,
+    "attacker_yaw":-90,
+    "attacker_roll":0,
+
+    "npc_x":248.3,
+    "npc_y":-121.9,
+    "npc_z":1,
+    "npc_pitch":0,
+    "npc_yaw":-90,
+    "npc_roll":0,
+
+    "npc_throttle":-1,
+    "npc_direction":0,   
+
+    "cam_x":0,
+    "cam_y":5,
+    "cam_z":5,
+
+    "cam_yaw":-90,
+    "cam_pitch":-15,
+
+    "town":"Town03"
+}
